@@ -9,7 +9,7 @@ This repository includes:
 
 # Source data
 Source data can be accessed in the following link:
-https://doi.org/10.5281/zenodo.10854607
+https://doi.org/10.5281/zenodo.15527601
 
 # Other
 The process of other anomaly vegetation indexes follows the same method(similar code).
